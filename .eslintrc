@@ -1,0 +1,8 @@
+{
+    "extends": "webbylab",
+    "rules": {
+        "more/no-window": 0,
+        "no-sync": 0,
+        "react/no-danger": 0
+    }
+}
