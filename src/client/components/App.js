@@ -75,7 +75,7 @@ export default class App extends Component {
                     }
                 </div>
                 <footer>
-                    <h1>{'Swag'}</h1>
+                    <h1>{'Tetris'}</h1>
                 </footer>
             </div>
         );
